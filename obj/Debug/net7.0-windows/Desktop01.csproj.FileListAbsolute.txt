@@ -1,0 +1,108 @@
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.AssemblyReference.cache
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.cache
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.lref
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.exe
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.deps.json
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.runtimeconfig.json
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.dll
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\bin\Debug\net7.0-windows\Desktop01.pdb
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.g.cs
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\App.baml
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.baml
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.g.resources
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfoInputs.cache
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfo.cs
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CoreCompileInputs.cache
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CopyComplete
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.dll
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\refint\Desktop01.dll
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.pdb
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\Desktop01.genruntimeconfig.cache
+C:\Users\SHENITH\Desktop\Desktop01\Desktop01\obj\Debug\net7.0-windows\ref\Desktop01.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Desktop01\Desktop0\Desktop01\bin\Debug\net7.0-windows\Desktop01.exe
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Desktop01\Desktop0\Desktop01\bin\Debug\net7.0-windows\Desktop01.deps.json
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Desktop01\Desktop0\Desktop01\bin\Debug\net7.0-windows\Desktop01.runtimeconfig.json
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Desktop01\Desktop0\Desktop01\bin\Debug\net7.0-windows\Desktop01.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Desktop01\Desktop0\Desktop01\bin\Debug\net7.0-windows\Desktop01.pdb
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Desktop01\Desktop0\Desktop01\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Desktop01\Desktop0\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.AssemblyReference.cache
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Desktop01\Desktop0\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.g.cs
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Desktop01\Desktop0\Desktop01\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Desktop01\Desktop0\Desktop01\obj\Debug\net7.0-windows\App.g.cs
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Desktop01\Desktop0\Desktop01\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Desktop01\Desktop0\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.cache
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Desktop01\Desktop0\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.lref
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Desktop01\Desktop0\Desktop01\obj\Debug\net7.0-windows\App.baml
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Desktop01\Desktop0\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.baml
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Desktop01\Desktop0\Desktop01\obj\Debug\net7.0-windows\MainWindow.baml
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Desktop01\Desktop0\Desktop01\obj\Debug\net7.0-windows\Desktop01.g.resources
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Desktop01\Desktop0\Desktop01\obj\Debug\net7.0-windows\Desktop01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Desktop01\Desktop0\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfoInputs.cache
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Desktop01\Desktop0\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfo.cs
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Desktop01\Desktop0\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CoreCompileInputs.cache
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Desktop01\Desktop0\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CopyComplete
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Desktop01\Desktop0\Desktop01\obj\Debug\net7.0-windows\Desktop01.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Desktop01\Desktop0\Desktop01\obj\Debug\net7.0-windows\refint\Desktop01.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Desktop01\Desktop0\Desktop01\obj\Debug\net7.0-windows\Desktop01.pdb
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Desktop01\Desktop0\Desktop01\obj\Debug\net7.0-windows\Desktop01.genruntimeconfig.cache
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\Desktop01\Desktop0\Desktop01\obj\Debug\net7.0-windows\ref\Desktop01.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\EG_2020_4062\Desktop0\Desktop01\bin\Debug\net7.0-windows\Desktop01.exe
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\EG_2020_4062\Desktop0\Desktop01\bin\Debug\net7.0-windows\Desktop01.deps.json
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\EG_2020_4062\Desktop0\Desktop01\bin\Debug\net7.0-windows\Desktop01.runtimeconfig.json
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\EG_2020_4062\Desktop0\Desktop01\bin\Debug\net7.0-windows\Desktop01.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\EG_2020_4062\Desktop0\Desktop01\bin\Debug\net7.0-windows\Desktop01.pdb
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\EG_2020_4062\Desktop0\Desktop01\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\EG_2020_4062\Desktop0\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.AssemblyReference.cache
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\EG_2020_4062\Desktop0\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.g.cs
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\EG_2020_4062\Desktop0\Desktop01\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\EG_2020_4062\Desktop0\Desktop01\obj\Debug\net7.0-windows\App.g.cs
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\EG_2020_4062\Desktop0\Desktop01\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\EG_2020_4062\Desktop0\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.cache
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\EG_2020_4062\Desktop0\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.lref
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\EG_2020_4062\Desktop0\Desktop01\obj\Debug\net7.0-windows\App.baml
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\EG_2020_4062\Desktop0\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.baml
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\EG_2020_4062\Desktop0\Desktop01\obj\Debug\net7.0-windows\MainWindow.baml
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\EG_2020_4062\Desktop0\Desktop01\obj\Debug\net7.0-windows\Desktop01.g.resources
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\EG_2020_4062\Desktop0\Desktop01\obj\Debug\net7.0-windows\Desktop01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\EG_2020_4062\Desktop0\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfoInputs.cache
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\EG_2020_4062\Desktop0\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfo.cs
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\EG_2020_4062\Desktop0\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CoreCompileInputs.cache
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\EG_2020_4062\Desktop0\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CopyComplete
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\EG_2020_4062\Desktop0\Desktop01\obj\Debug\net7.0-windows\Desktop01.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\EG_2020_4062\Desktop0\Desktop01\obj\Debug\net7.0-windows\refint\Desktop01.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\EG_2020_4062\Desktop0\Desktop01\obj\Debug\net7.0-windows\Desktop01.pdb
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\EG_2020_4062\Desktop0\Desktop01\obj\Debug\net7.0-windows\Desktop01.genruntimeconfig.cache
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\EG_2020_4062\Desktop0\Desktop01\obj\Debug\net7.0-windows\ref\Desktop01.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\EG_2020_4062\DesktopApp\Desktop01\bin\Debug\net7.0-windows\Desktop01.exe
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\EG_2020_4062\DesktopApp\Desktop01\bin\Debug\net7.0-windows\Desktop01.deps.json
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\EG_2020_4062\DesktopApp\Desktop01\bin\Debug\net7.0-windows\Desktop01.runtimeconfig.json
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\EG_2020_4062\DesktopApp\Desktop01\bin\Debug\net7.0-windows\Desktop01.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\EG_2020_4062\DesktopApp\Desktop01\bin\Debug\net7.0-windows\Desktop01.pdb
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\EG_2020_4062\DesktopApp\Desktop01\bin\Debug\net7.0-windows\CommunityToolkit.Mvvm.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\EG_2020_4062\DesktopApp\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.AssemblyReference.cache
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\EG_2020_4062\DesktopApp\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.g.cs
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\EG_2020_4062\DesktopApp\Desktop01\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\EG_2020_4062\DesktopApp\Desktop01\obj\Debug\net7.0-windows\App.g.cs
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\EG_2020_4062\DesktopApp\Desktop01\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\EG_2020_4062\DesktopApp\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.cache
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\EG_2020_4062\DesktopApp\Desktop01\obj\Debug\net7.0-windows\Desktop01_MarkupCompile.lref
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\EG_2020_4062\DesktopApp\Desktop01\obj\Debug\net7.0-windows\App.baml
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\EG_2020_4062\DesktopApp\Desktop01\obj\Debug\net7.0-windows\AddUserWindow.baml
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\EG_2020_4062\DesktopApp\Desktop01\obj\Debug\net7.0-windows\MainWindow.baml
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\EG_2020_4062\DesktopApp\Desktop01\obj\Debug\net7.0-windows\Desktop01.g.resources
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\EG_2020_4062\DesktopApp\Desktop01\obj\Debug\net7.0-windows\Desktop01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\EG_2020_4062\DesktopApp\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfoInputs.cache
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\EG_2020_4062\DesktopApp\Desktop01\obj\Debug\net7.0-windows\Desktop01.AssemblyInfo.cs
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\EG_2020_4062\DesktopApp\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CoreCompileInputs.cache
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\EG_2020_4062\DesktopApp\Desktop01\obj\Debug\net7.0-windows\Desktop01.csproj.CopyComplete
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\EG_2020_4062\DesktopApp\Desktop01\obj\Debug\net7.0-windows\Desktop01.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\EG_2020_4062\DesktopApp\Desktop01\obj\Debug\net7.0-windows\refint\Desktop01.dll
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\EG_2020_4062\DesktopApp\Desktop01\obj\Debug\net7.0-windows\Desktop01.pdb
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\EG_2020_4062\DesktopApp\Desktop01\obj\Debug\net7.0-windows\Desktop01.genruntimeconfig.cache
+D:\Cmps doc\Campus lec\3rd sem\EE3250 GUI Programming\Assignment\EG_2020_4062\DesktopApp\Desktop01\obj\Debug\net7.0-windows\ref\Desktop01.dll
